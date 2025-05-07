@@ -1,0 +1,15 @@
+1. How many cyber attacks occurred each year from 2015 to 2024?
+2. What are the top 10 countries with the highest number of cyber attacks?
+3. Which attack types are most common globally and how has that changed over time?
+4. What are the top 5 industries most targeted by cyber attacks?
+5. How much financial loss (in $) has each country experienced due to cyber threats?
+6. What is the trend of total financial loss over the years?
+7. Which attack sources (e.g., Insider, Nation-State) are responsible for the most damage?
+8. What is the average incident resolution time by country or attack type?
+9. Which defense mechanisms are most effective (lowest average resolution time)?
+10. What is the average number of users affected by attack type or vulnerability?
+11. What are the most common security vulnerabilities exploited in different industries?
+12. Which countries have the highest average financial loss per incident?
+13. What is the correlation between financial loss and number of affected users?
+14. How do incidents involving ‘Nation-state’ attackers compare to others in financial impact?
+15. Which year had the highest number of high-impact (>$50M) attacks?

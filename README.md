@@ -1,4 +1,3 @@
-
 # Cybersecurity Threats Dashboard (2015–2024)
 
 ##  Project Overview
@@ -7,6 +6,9 @@ This Power BI project presents an in-depth analysis of global cybersecurity thre
 ##  Key Features
 
 ###  Page 1: Global Threats Overview
+![Screenshot 2025-06-06 111121](https://github.com/user-attachments/assets/ad4bc113-9058-47d0-9e7b-6b53365ac39d)
+
+
 - Interactive slicers: **Attack Source**, **Security Vulnerabilities**, **Defense Mechanism**
 - KPI Cards: **Total Threats**, **Affected Users**, **Financial Loss**
 - Visuals:
@@ -22,6 +24,8 @@ This Power BI project presents an in-depth analysis of global cybersecurity thre
     - **Affected Users by Country**
 
 ###  Page 2: Year-wise Threats Analysis
+![Screenshot 2025-06-06 111202](https://github.com/user-attachments/assets/86f9141b-08f4-4430-b5d3-89cf4f8e12af)
+
 - Year slicer to filter all visuals by year
 - Visuals:
   - Bar Chart: **Financial Loss by Year and Severity**
